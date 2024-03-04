@@ -65,7 +65,7 @@
 
 		<!-- Dependency Versions: Version of dependencies provided by the target 
 			platform in ,2. We try to match the p2-version if possible. -->
-		<apache.logging.log4j.version>[2.19.0,)</apache.logging.log4j.version>
+		<apache.logging.log4j.version>[2.22.1]</apache.logging.log4j.version>
 		<commons.cli.version>[1.4,)</commons.cli.version>
 		<elk.version>0.8.1</elk.version>
 		<emf.common.version>[2.23.0,)</emf.common.version>
